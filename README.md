@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##About
+
+## Tools & Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 30px; height: 30px; margin-right: 10px; color: #61dafb;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 30px; height: 30px; margin-right: 10px; color: #3776ab;" />
